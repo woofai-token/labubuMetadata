@@ -1,0 +1,25 @@
+{
+  "name": "LABUBU",
+  "symbol": "LABUBU",
+  "description": "Labubu isn't just a meme—it's a movement. Born from chaos, powered by community, and styled with pixel-perfect vibes, Labubu Coin is rewriting what it means to have fun on the blockchain.",
+  "image": "https://raw.githubusercontent.com/woofai-token/labubuMetadata/main/labubu.jpg",
+  "decimals": 9,
+  "seller_fee_basis_points": 0,
+  "external_url": "https://labubutoken.netlify.app/",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/woofai-token/labubuMetadata/main/labubu.jpg",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "Cuzt7YRDoEq4Moi1Voj6ceQAdGbavTpqSk3WpfTEBtnM",
+        "share": 100
+      }
+    ]
+  }
+}
